@@ -13,7 +13,7 @@ Following flow chart shows how to use the function defined in [Perspective_Trans
 
 Following is the image that was used to demonstrate the function usage. ![alt text][image1]
 
-After using the function to get points on the original image and the desired transformed immage, the following image shows the point-regions selected. White is the desired transformed point-region and the black lined point-region is the original one.
+After using the function to get points on the original image and the desired transformed immage, we get an image like the following which shows the point-regions selected. White is the desired transformed point-region and the black lined point-region is the original one.
 
 ![alt text][image2]
 
